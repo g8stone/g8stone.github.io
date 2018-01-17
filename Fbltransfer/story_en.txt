@@ -1,0 +1,111 @@
+title: Most expensive football players
+subhead: Top 10 of all time 
+subhead2: In million euros 
+
+[tabs]
+image: neymar-02.png
+props.name: 1
+props.title: Neymar
+props.country: Brazil
+props.year: Transfer season: 2017
+props.team1: From Barcelona (Liga)
+props.team2: to Paris Saint Germain (Ligue 1)
+props.color: #720b17
+
+image: kylian-02.png
+props.name: 2
+props.title: Kylian Mbappe
+props.country: France
+props.year: 2017 (on loan with option to buy)
+props.team1: From Monaco (Ligue 1)
+props.team2: to Paris Saint Germain (Ligue 1)
+props.pay: 180 million euros
+props.color: #720b17
+
+image: continho-02.png
+props.name: 3
+props.title: Philippe Coutinho 
+props.country: Brazil
+props.year: 2018 
+props.team1: From Liverpool (Premier League)
+props.team2: to Barcelona (Liga)
+props.pay: 160 million euros 
+props.color: #720b17
+
+image: ousmane-02.png
+props.name: 4 
+props.title: Ousmane Dembele
+props.country: France
+props.year: 2017
+props.team1: From Borussia Dortmund (Bundesliga)
+props.team2: to Barcelona (Liga)
+props.pay: 105 million euros
+props.color: #720b17
+
+image: pogba-02.png
+props.name: 5 
+props.title: Paul Pogba
+props.country: France
+props.year: 2017
+props.team1: From Juventus (Serie A) 
+props.team2: to Manchester United (Premier League)
+props.pay: 105 million euros
+props.color: #720b17
+
+image: bale-02.png
+props.name: 6 
+props.title: Gareth Bale
+props.country: Wales
+props.year: 2013
+props.team1: From Tottenham Hotspur (Premier League)
+props.team2: to Real Madrid (Liga)
+props.pay: 101 million euros
+props.color: #720b17
+
+image: ronaldo-02.png
+props.name: 7 
+props.title: Cristiano Ronaldo
+props.country: Portugal
+props.year: 2009
+props.team1: From Manchester United (Premier League)
+props.team2: to Real Madrid (Liga)
+props.pay: 94 million euros
+props.color: #720b17
+
+image: higuain-02.png
+props.name: 8 
+props.title: Gonzalo Higuain
+props.country: Argentina
+props.year: 2016
+props.team1: From Napoles (Serie A)
+props.team2: to Juventus (Serie A)
+props.pay: 90 million euros
+props.color: #720b17
+
+image: neymar2013-02.png
+props.name: 9 
+props.title: Neymar
+props.country: Brazil
+props.year: 2013
+props.team1: From Santos (Serie A)
+props.team2: to Barcelona (Liga)
+props.pay: 88.5 million euros
+props.color: #720b17
+
+image: dijk-02.png
+props.name: 10 
+props.title: Virgil Van Dijk
+props.country: Netherlands
+props.year: 2017
+props.team1: From Southampton (Premier League)
+props.team2: to Liverpool (Premier League)
+props.pay: 84 million euros
+props.color: #720b17
+
+[]
+
+sources: Source: AFP
+
+lastUpdate.key: Last update:
+lastUpdate.value: 01/16/2018 16:00:00 (HK)
+lang: en
